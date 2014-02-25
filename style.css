@@ -1,4 +1,40 @@
-body {
+body{
+}
+
+.ichiCL
+{
+position: relative;
+width:100%;
+background-color: #000;
 color:#fff;
-background-color:#999;
+float:left;
+}
+
+#ichiID {
+	width: 692px;
+	height: 60px;
+	background-color: #333;
+	padding: 8px;
+}
+#niID {
+	position: relative;
+	width: 60px;
+	height: 60px;
+	background: url(img/logo_black.jpg) no-repeat;
+}
+.niCL {
+	position: relative;
+	width: 60px;
+	height: 60px;
+	margin-right: 10px;
+	float:left;
+}
+#redID{
+	background-color: red;
+} 
+#yellowID{
+	background-color: yellow;
+} 
+#greenID{
+	background-color: green;
 }
